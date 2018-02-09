@@ -23,5 +23,4 @@ func main() {
 	}
 	fmt.Println("Resolved address is ", addr.String())
 	os.Exit(0)
-	//fmt.Println(stringutil.Reverse("Bájate de la higuera."))
 }
