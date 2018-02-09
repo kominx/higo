@@ -9,6 +9,10 @@
 *.dylib
 debug
 higo
+# git rm --cached degug
+# git rm --cached higo
+# git rm -r --cached .idea/
+
 
 # Test binary, build with `go test -c`
 *.test
